@@ -1,4 +1,4 @@
----
+™Ü---
 title: Managing security advisories for vulnerabilities in your project
 shortTitle: Security advisories
 intro: 'Discuss, fix, and disclose security vulnerabilities in your repositories using security advisories.'
